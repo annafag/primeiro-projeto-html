@@ -1,8 +1,17 @@
 body{
-  background- color
+  background-color: #CCCCCC;
+}
 
+.titulo{
+  font-size:40px;
+  color:blueviolet;
+}
 
-.sapo{
-  .width: 50%
+.sapo.header{
+  .width: 20%
+  border-radius: 10px;
   }
   
+sapo{
+  width: 50%
+}
